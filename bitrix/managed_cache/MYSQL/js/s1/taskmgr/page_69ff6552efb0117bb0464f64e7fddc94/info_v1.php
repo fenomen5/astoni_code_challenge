@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/components/astoni/tasks.list/templates/.default/../js/task_list.js" => "15956001482310","/local/components/astoni/tasks.list/templates/.default/../js/utils.js" => "1595593597466",); ?>

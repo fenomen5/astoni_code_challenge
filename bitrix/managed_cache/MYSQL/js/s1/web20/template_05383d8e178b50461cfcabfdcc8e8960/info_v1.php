@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/templates/web20/components/bitrix/system.auth.form/auth/script.js" => "1595590739338","/bitrix/templates/web20/components/bitrix/menu/tabs/script.js" => "1595590739430",); ?>

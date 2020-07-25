@@ -1,0 +1,23 @@
+
+
+/* Start:/local/components/astoni/tasks.list/templates/.default/../css/main.css?1595593530202*/
+
+.report-table-wrap {
+    max-width: 80vw;
+}
+
+td.UF_TASK_DATETIME {
+    width: 15%;
+}
+td.UF_COMMENT {
+    width: 35%;
+}
+td.UF_STATUS {
+    width: 10%;
+}
+
+td.control {
+    width: 20px;
+}
+/* End */
+/* /local/components/astoni/tasks.list/templates/.default/../css/main.css?1595593530202 */
